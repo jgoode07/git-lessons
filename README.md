@@ -14,3 +14,6 @@ The goal of this project is to practice the complete Git workflow — from setti
 ## Author
 **Joe Goode**  
 [GitHub Profile](https://github.com/jgoode07)
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
